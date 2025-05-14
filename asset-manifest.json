@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dorerishi/library_react/static/css/main.df3716d5.css",
+    "main.js": "/Dorerishi/library_react/static/js/main.3a6d253a.js",
+    "index.html": "/Dorerishi/library_react/index.html",
+    "main.df3716d5.css.map": "/Dorerishi/library_react/static/css/main.df3716d5.css.map",
+    "main.3a6d253a.js.map": "/Dorerishi/library_react/static/js/main.3a6d253a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3716d5.css",
+    "static/js/main.3a6d253a.js"
+  ]
+}
